@@ -1,2 +1,3 @@
 # Facanhaetal_SexRatio-OvarianDevelopment_Flies
-Data from an original article by Façanha et al 2025 (DOI (?)).This study explores how vertical stratification and resource availability affect sex ratio and ovarian development in Calliphoridae and Mesembrinellidae, with relevance to forensic entomology, public health, and conservation.
+This repository contains data and code to generate the figures and results from the article "Effects of height and food type on sex ratio and ovarian development in sarcosaprophagous flies from the Brazilian Amazon" by Bruna L. B. Façanha, Rony P. S. Almeida, José R. P. Sousa, Leandro Juen, and Maria C. Esposito. 
+
