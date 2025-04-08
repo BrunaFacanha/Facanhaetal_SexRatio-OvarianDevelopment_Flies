@@ -1,0 +1,17 @@
+family	grup	PB_F	PB_M	PA_F	PA_M	BB_F	BB_M	BA_F	BA_M
+Calliphoridae	Calliphoridae	367	37	153	82	134	57	81	51
+Calliphoridae	Chrysomya_albiceps	49	5	22	12	20	10	13	12
+Calliphoridae	Chrysomya_megacephala	46	7	17	12	3	1	13	5
+Calliphoridae	Chrysomya_putoria	11	2	5	3	12	1	2	4
+Calliphoridae	Chloroprocta_idioidea	67	7	22	14	15	12	7	4
+Calliphoridae	Cochliomyia_macellaria	35	2	24	8	16	6	6	3
+Calliphoridae	Cochliomyia_hominivorax	0	0	0	1	0	0	0	0
+Calliphoridae	Hemilucilia_semidiaphana	49	7	20	12	18	8	9	5
+Calliphoridae	Lucilia_eximia	64	4	24	14	34	13	23	15
+Calliphoridae	Lucilia_cuprina	3	0	2	0	1	0	4	0
+Calliphoridae	Paralucilia_paraensis	43	3	17	6	15	6	4	3
+Mesembrinellidae	Mesembrinellidae	41	4	46	7	51	12	29	21
+Mesembrinellidae	Mesembrinella_bellardiana	23	2	14	3	21	3	14	10
+Mesembrinellidae	Mesembrinella_bicolor	10	2	20	3	16	6	10	9
+Mesembrinellidae	Mesembrinella_randa	0	0	7	1	7	2	2	0
+Mesembrinellidae	Mesembrinella_quadrilineata	8	0	5	0	7	1	3	2

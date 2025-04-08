@@ -1,0 +1,16 @@
+bank	family	group 	PB_PV	PB_VI	PB_VF	PB_VC	PB_CL	PA_PV	PA_VI	PA_VF	PA_VC	PA_CL	BB_PV	BB_VI	BB_VF	BB_VC	BB_CL	BA_PV	BA_VI	BA_VF	BA_VC	BA_CL
+do	Calliphoridae	Calliphoridae	5	11	33	34	NA	2	13	50	12	NA	3	42	19	10	NA	6	24	24	8	NA
+do	Calliphoridae	Chrysomya_albiceps	0	0	5	5	NA	0	2	5	3	NA	1	8	1	0	NA	0	3	7	0	NA
+do	Calliphoridae	Chrysomya_megacephala	0	4	5	1	NA	1	2	3	4	NA	0	2	1	0	NA	0	7	3	0	NA
+do	Calliphoridae	Chrysomya_putoria	1	2	2	5	NA	0	0	5	0	NA	0	8	2	0	NA	1	1	0	0	NA
+do	Calliphoridae	Chloroprocta_idioidea	0	0	4	6	NA	0	2	7	1	NA	0	3	0	7	NA	0	2	4	1	NA
+do	Calliphoridae	Cochliomyia_macellaria	0	0	6	4	NA	0	2	7	1	NA	2	3	5	0	NA	0	6	0	0	NA
+do	Calliphoridae	Hemilucilia_semidiaphana	0	0	4	6	NA	0	0	8	2	NA	0	9	0	1	NA	0	0	2	7	NA
+do	Calliphoridae	Lucilia_eximia	3	3	2	2	NA	0	2	7	1	NA	0	6	4	0	NA	5	5	0	0	NA
+do	Calliphoridae	Lucilia_cuprina	1	1	0	1	NA	1	1	0	0	NA	0	1	0	0	NA	0	0	4	0	NA
+do	Calliphoridae	Paralucilia_paraensis	0	1	5	4	NA	0	2	8	0	NA	0	2	6	2	NA	0	0	4	0	NA
+do	Mesembrinellidae	Mesembrinellidae	2	1	21	1	0	0	5	17	3	7	2	8	15	7	4	2	2	17	3	1
+do	Mesembrinellidae	Mesembrinella_bellardiana	0	1	9	0	0	0	5	5	0	0	0	0	10	0	0	0	0	8	2	0
+do	Mesembrinellidae	Mesembrinella_bicolor	0	0	7	0	0	0	0	7	2	1	0	5	0	3	2	2	2	4	1	1
+do	Mesembrinellidae	Mesembrinella_randa	0	0	0	0	0	0	0	4	1	2	0	0	4	1	2	0	0	2	0	0
+do	Mesembrinellidae	Mesembrinella_quadrilineata	2	0	5	1	0	0	0	1	0	4	2	3	1	3	0	0	0	3	0	0
