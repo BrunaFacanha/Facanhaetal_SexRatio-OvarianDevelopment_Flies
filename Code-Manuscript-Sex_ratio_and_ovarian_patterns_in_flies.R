@@ -642,3 +642,4 @@ citation("chisq.posthoc.test")
 citation("ggmosaic")
 citation("cowplot")
 
+
