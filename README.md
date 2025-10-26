@@ -1,6 +1,7 @@
 # Facanhaetal_Sex_ratio_and_ovarian_patterns_in_flies
 This repository contains data and code to generate the figures and results from the article "Sampling bias in sex ratio and ovarian maturation of Calliphoridae and Mesembrinellidae (Diptera): influence of trap height and bait type in the Brazilian Amazon" by Bruna L. B. Façanha, Rony P. S. Almeida, José R. P. Sousa, Leandro Juen, and Maria C. Esposito. 
 
+
 ARTICLE INFORMATION:
 This study examines how vertical stratification and resource availability influence the sex ratio and ovarian development of sarcosaprophagous flies (Calliphoridae and Mesembrinellidae) in the Brazilian Amazon. Using protein-rich (decomposing bovine lung) and carbohydrate-rich (fermented banana) baits at different heights, we assessed how dietary preferences align with the distinct nutritional needs of males and females. Our results confirmed that females predominantly utilize protein sources for reproductive processes, while males are more frequently attracted to carbohydrate sources. Additionally, we provide crucial information on ovarian development in Mesembrinellidae, a group for which such data was previously scarce. These findings contribute to a better understanding of ecological interactions and have implications for forensic entomology, public health, and conservation strategies.
 
