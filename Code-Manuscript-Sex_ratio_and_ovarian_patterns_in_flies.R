@@ -1,10 +1,9 @@
 ############################################################################################################################
 # SUPPORTING INFORMATION TO
 
-# Title: Effects of height and food type on sex ratio and ovarian development in sarcosaprophagous flies 
-#                  (Calliphoridae and Mesembrinellidae) from the Brazilian Amazon
+# Title: Sampling bias in sex ratio and ovarian maturation of Calliphoridae and Mesembrinellidae (Diptera): influence of trap height and bait type in the Brazilian Amazon
 # Authors: Bruna L. B. Façanha1*, Rony P. S. Almeida2, José R. P. Sousa3, Leandro Juen 4, Maria C. Esposito5.
-# Journal: Ecological Entomology
+# Journal: Annals of the Brazilian Academy of Sciences 
 # 1 Universidade Federal do Pará (UFPA), Belém, Pará – Brazil
 # 2 Universidade Federal de Sergipe (UFS), Departamento de Biociências. Itabaiana, Sergipe - Brazil
 # 3 Universidade Estadual do Maranhão (UEMA), São Luís, Maranhão - Brazil 
@@ -642,3 +641,4 @@ write.table(res_des,"tab_resultado_desenv.txt", quote = F)
 citation("chisq.posthoc.test")
 citation("ggmosaic")
 citation("cowplot")
+
